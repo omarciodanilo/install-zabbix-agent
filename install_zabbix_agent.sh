@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 log_file="$HOME/install-zabbix-agent.log"
 zabbix_ip="Zabbix server IP"
 
